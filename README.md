@@ -6,7 +6,7 @@ This is a website created by me where developers can
   5. Give reviews to other developers projects
 
 Technologies Used
-  Django - 5.0.4
-  Python - 3.12.0
-  Database - sqlite3(development)
-  IDE - VS Code
+  1. Django - 5.0.4
+  2. Python - 3.12.0
+  3. Database - sqlite3(development)
+  4. IDE - VS Code
