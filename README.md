@@ -1,4 +1,4 @@
-This is a website created by me where developers can 
+This is a website created for developers where they can 
   1. Create their profiles
   2. Add their projects
   3. Add their skills
