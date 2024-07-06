@@ -12,7 +12,7 @@ if (token) {
 logoutBtn.addEventListener('click', (e) => {
     e.preventDefault()
     localStorage.removeItem('token')
-    window.location = 'file:///C:/Users/Gaurav/Desktop/devsearch%20frontend/login.html'
+    window.location = 'file:///C:/Users/Gaurav/Desktop/my%20django%20projects/devsearch/devsearch%20frontend/login.html'
 })
 
 
@@ -47,7 +47,7 @@ let buildProjects = (projects) => {
                             <strong class="vote--option" data-vote="down" data-project="${project.id}"  >&#8722;</strong>
                         </div>
                         <i>${project.vote_ratio}% Positive feedback </i>
-                        <p>${project.description.substring(0, 150)}</p>
+                        <p>${project.description ? project.description.substring(0, 150) : ''}</p>
                     </div>
                 
                 </div>

@@ -20,7 +20,7 @@ form.addEventListener('submit', (e) => {
             console.log('DATA:', data.access)
             if (data.access) {
                 localStorage.setItem('token', data.access)
-                window.location = 'file:///C:/Users/Gaurav/Desktop/devsearch%20frontend/projects-list.html'
+                window.location = 'file:///C:/Users/Gaurav/Desktop/my%20django%20projects/devsearch/devsearch%20frontend/projects-list.html'
             } else {
                 alert('Username OR password did not work')
             }
