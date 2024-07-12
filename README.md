@@ -2,6 +2,7 @@
   1. Create their profiles
   2. Add, update & delete their projects and skills
   3. Message other developers
+  4. Give reviews only to other developers projects
 
 ### Implemented user authentication and authorization also
 
