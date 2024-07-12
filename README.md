@@ -9,5 +9,8 @@
 * Technologies Used
   1. Django - 5.0.4
   2. Python - 3.12.0
-  3. Database - sqlite3(development)
-  4. IDE - VS Code
+  3. HTML
+  4. CSS
+  5. JavaScript
+  6. Database - sqlite3(development)
+  7. IDE - VS Code
