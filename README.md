@@ -1,12 +1,12 @@
-### This is a website created for developers where they can 
+* This is a website created for developers where they can 
   1. Create their profiles
   2. Add, update & delete their projects and skills
   3. Message other developers
   4. Give reviews only to other developers projects
 
-### Implemented user authentication and authorization also
+* Implemented user authentication and authorization also
 
-### Technologies Used
+* Technologies Used
   1. Django - 5.0.4
   2. Python - 3.12.0
   3. Database - sqlite3(development)
