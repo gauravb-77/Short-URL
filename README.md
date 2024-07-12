@@ -1,6 +1,6 @@
 This is a website created for developers where they can 
   1. Create their profiles
-  2. Add, update & delete their projects adn skills
+  2. Add, update & delete their projects and skills
   3. Message other developers
 
 Implemented user authentication and authorization also
