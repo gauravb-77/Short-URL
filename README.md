@@ -6,6 +6,8 @@
 
 * Implemented user authentication and authorization also
 
+* Created APIs using Django Rest Framework
+
 * Technologies Used
   1. Django - 5.0.4
   2. Python - 3.12.0
