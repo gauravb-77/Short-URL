@@ -1,18 +1,26 @@
-* This is a website created for developers where they can 
-  1. Create their profiles
-  2. Add, update & delete their projects and skills
-  3. Message other developers
-  4. Give reviews only to other developers projects
+# DevSearch - Developer Collaboration Platform
 
-* Implemented user authentication and authorization also
+DevSearch is a platform created for developers to showcase their skills and projects, connect with other developers, and collaborate. The website allows users to create profiles, manage their projects and skills, message other developers, and review projects.
 
-* Created APIs using Django Rest Framework
+## Features
+- **User Profiles**: Developers can create and customize their profiles with personal details, skills, and projects.
+- **Project Management**: Add, update, and delete personal projects and showcase them on your profile.
+- **Skills Management**: Add, update, and delete skills relevant to your work.
+- **Messaging**: Send messages to other developers for networking or collaboration.
+- **Project Reviews**: Developers can review and rate other developers' projects (reviews are project-specific, not user-specific).
+- **Authentication & Authorization**: Secure login, registration, and profile management using Django's built-in authentication system.
+- **API**: RESTful APIs built using Django Rest Framework (DRF) for external access to DevSearch's features.
 
-* Technologies Used
-  1. Django - 5.0.4
-  2. Python - 3.12.0
-  3. HTML
-  4. CSS
-  5. JavaScript
-  6. Database - sqlite3(development)
-  7. IDE - VS Code
+## Tech Stack
+- **Backend**: Django 5.0.4 (Python 3.12.0)
+- **Frontend**: HTML, CSS, JavaScript
+- **Database**: SQLite3 (development environment)
+- **API**: Django Rest Framework (DRF)
+- **IDE**: Visual Studio Code
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/gauravb-77/DevSearch.git
+   cd devsearch
